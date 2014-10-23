@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+description: pdf417plugin
+author: ljudevit.habjanec@instantcom.net
+license: Apache license v2
+copyright: Copyright (c) 2014 by Microblink Ltd.
+
+# these should not be edited
+name: pdf417plugin
+moduleid: mobi.pdf417.plugin
+guid: ad04d644-c5c8-4d84-a48e-ff9594112836
+platform: android
+minsdk: 3.3.0.GA

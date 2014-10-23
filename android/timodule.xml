@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:module xmlns:ti="http://ti.appcelerator.org" xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<!-- Android Manifest specifics -->
+	<android xmlns:android="http://schemas.android.com/apk/res/android">
+		<manifest>
+			<application>
+				 <activity
+		            android:name="mobi.pdf417.activity.Pdf417ScanActivity"
+		            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+		            android:screenOrientation="portrait" >
+		            <intent-filter>
+		                <action android:name="mobi.pdf417.activity.Pdf417ScanActivity" />
+		                <category android:name="android.intent.category.DEFAULT" />
+		            </intent-filter>
+				</activity>			
+			</application>
+			
+			<uses-permission android:name="android.permission.CAMERA" />
+	        <uses-permission android:name="android.permission.FLASHLIGHT" />
+	        
+	        <uses-feature android:name="android.hardware.camera" />
+			<uses-feature android:name="android.hardware.camera.autofocus" />
+			<uses-feature android:name="android.hardware.camera.flash" />
+			<uses-feature android:glEsVersion="0x00020000" android:required="false" />
+		</manifest>
+	</android>
+	
+</ti:module>

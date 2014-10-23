@@ -1,0 +1,13 @@
+android/build/classes/
+android/build/generated/
+android/dist/
+android/documentation/
+android/example/
+android/libs/
+android/LICENSE
+android/.settings
+android/.project
+android/.classpath
+#android/manifest
+#.settings/
+.directory
