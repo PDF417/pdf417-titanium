@@ -1,6 +1,3 @@
-android/build/classes/
-android/build/generated/
-android/dist/
 android/documentation/
 android/example/
 android/libs/
@@ -11,3 +8,5 @@ android/.classpath
 #android/manifest
 #.settings/
 .directory
+pdf417plugin.jar
+android/build
