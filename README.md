@@ -23,4 +23,4 @@ For more references, visit [www.pdf417.mobi](http://www.pdf417.mobi).
 
 ## Contact
 
-For any inquiries, additional information or instructions please contact us at <pdf417@photopay.net> our follow our page on Twitter ([@417pdf](https://twitter.com/417pdf)).
+For any inquiries, additional information or instructions please contact us at <info@microblink.com> our follow our page on Twitter ([@417pdf](https://twitter.com/417pdf)).
