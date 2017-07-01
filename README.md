@@ -4,6 +4,8 @@ This project is no longer maintained. Please use our native SDKs.
 - [iOS](https://github.com/PDF417/pdf417-ios)
 - [Android](https://github.com/PDF417/pdf417-android)
 
+## Integration
+
 If you are using Titanium Studio
 - Import plugin as project: File -> Import -> General -> Import Existing projects into Workspace
 - Right click pdf417plugin and select Publish -> Package - Android. Select your project under Mobile App Project.
