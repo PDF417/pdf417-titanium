@@ -1,4 +1,8 @@
-## Pdf417 for Titanium SDK
+## Pdf417 for Titanium SDK (No longer maintained)
+
+This project is no longer maintained. Please use our native SDKs.
+- [iOS](https://github.com/PDF417/pdf417-ios)
+- [Android](https://github.com/PDF417/pdf417-android)
 
 If you are using Titanium Studio
 - Import plugin as project: File -> Import -> General -> Import Existing projects into Workspace
